@@ -1,6 +1,23 @@
 # Mathematics of Data Science
+[
+Pose Machine](https://colab.research.google.com/drive/1EPTcfJWljZ_7nDF2lCzR7BaTTly3vEjq?usp=sharing)
+
+[SAM](https://colab.research.google.com/drive/1bqvOqByBsvcLsij-cDoWd5_Kmqfh5jz0?usp=sharing)
+
+[Projects](https://docs.google.com/document/d/1jN0r_sQBO9LokUmi0_TQZUkyb7Z1Vdz6mORofGj2Kzk/edit?usp=sharing)
+
+[Overleaf](https://www.overleaf.com/latex/templates)
 
 
+## Deliverables
+* Github Readme
+* Overleaf PDF Report
+* CV
+
+
+## Wave Grant
+[Grant App
+](https://www.fau.edu/innovation-and-business-development/fau-wave/fau-wave-competition/)
 ## Recitation Classes Schedule
 * Tuesdays and Thursdays 2:30pm @ MPCR Lab Sandbox
   
@@ -41,9 +58,28 @@
 
 [Autoencoder and GAN](https://colab.research.google.com/drive/1plbvxqA4vjJqJZ2XzUkUoZaXhabovhfv?usp=sharing)
 
+[AlexNet Functional](https://colab.research.google.com/drive/1gymf98aiTdUaM9eY8fgs3RM-wfb_sc78?usp=sharing)
+
+[Alexnet FMRI](https://colab.research.google.com/drive/1itMtHx_z4mBrI7ObqHI661LgBHa9fWWk?usp=sharing)
+
+[Alexnet Filters and Feature Maps](https://colab.research.google.com/drive/11IJ27NHDdtqZASIkYMjCRH-39-Peaz3F?usp=sharing)
+
+[Webcam](https://colab.research.google.com/drive/1EFj_9qfGDXioY315kMqYyYZHQDKyFKYP?usp=sharing)
+
+[Alexnet Filters](https://colab.research.google.com/drive/1YQ2txm0h41gvxnD_iEU4wmReGZX9hdWA?usp=sharing)
+
+[Custom Data Filter](https://colab.research.google.com/drive/1LgTU2EmyB-I2YICjckW0dClipVBrt-1z?usp=sharing)
+
+[Alexnet Train from Slides](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing)
+
+[Yolo](https://colab.research.google.com/drive/1Fz4q_NRSEPkz8jVPJM-qrOQEYLmRrbEv?usp=sharing)
+
+[Audio](https://colab.research.google.com/drive/1lrasjDqOvOz4h1vAbuCfiaJCVzpmXOuq?usp=sharing)
+
+
 ## Homework Sets
 
-### Problem Set 1
+### Problem Set 1 ([solutions](https://colab.research.google.com/drive/1PFowg9BEhZlhrzj4WvoNkmLvsGuuS1xR?usp=sharing))
 
   * Load MNIST and show montage
   * Run random y=mx model on MNIST
@@ -86,6 +122,9 @@
 [Roster](https://docs.google.com/presentation/d/1v-JmiJSsevYhvAT2_AI30L-v0Lr-urQwHAqmasQFJi0/edit?usp=sharing)
 
 ## Links
+
+[Convnet Types](https://github.com/vdumoulin/conv_arithmetic)
+
 [Spectrogram](https://musiclab.chromeexperiments.com/spectrogram/)
 
 [Convolution](https://setosa.io/ev/image-kernels/#:~:text=An%20image%20kernel%20is%20a,important%20portions%20of%20an%20image.)
@@ -97,6 +136,7 @@
 ## Web Demos
 
 [Classic Filters](https://williamedwardhahn.github.io/data_website/Conv3.html)
+
 [Random Filters](https://williamedwardhahn.github.io/data_website/Conv5.html)
 
 
@@ -106,4 +146,7 @@
 * [Extreme Learning Machine](https://colab.research.google.com/drive/1IFZ91C8mymfwVpG-36y9Xr3z_gi68PmJ?usp=sharing)
 * [Reservoir Computer](https://colab.research.google.com/drive/11TAM-3jN_6eYn2HyjWolLUHpAg0fWQMJ?usp=sharing) 
 * Finetune [Flowers 102](https://colab.research.google.com/drive/1YQ2txm0h41gvxnD_iEU4wmReGZX9hdWA?usp=sharing) on Image Transformer
+
+## AI
+[Video History Series](https://clp.bbcrewind.co.uk/programmes)https://clp.bbcrewind.co.uk/programmes
   
